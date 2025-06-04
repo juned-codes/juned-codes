@@ -12,7 +12,8 @@ Hi, I'm Juned — a passionate full stack developer with a strong foundation in 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=juned-codes&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+
+
+![snake gif](https://github.com/juned-codes/juned-codes/blob/output/github-snake-dark.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
