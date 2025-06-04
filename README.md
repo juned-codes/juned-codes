@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently studying and working with Ai agents<br>
+Hi, I'm Juned — a passionate full stack developer with a strong foundation in both frontend and backend technologies. I love building scalable web applications, experimenting with AI tools, and diving deep into the world of crypto, smart contracts, and decentralized apps.<br>
 
 
 # 💻 Tech Stack:
